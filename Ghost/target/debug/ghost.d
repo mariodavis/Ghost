@@ -1,0 +1,1 @@
+/home/devbytess/Desktop/rust/Ghost/target/debug/ghost: /home/devbytess/Desktop/rust/Ghost/src/handlers.rs /home/devbytess/Desktop/rust/Ghost/src/main.rs /home/devbytess/Desktop/rust/Ghost/src/state.rs /home/devbytess/Desktop/rust/Ghost/src/types.rs

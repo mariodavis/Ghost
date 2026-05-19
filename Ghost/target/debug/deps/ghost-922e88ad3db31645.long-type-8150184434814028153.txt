@@ -1,0 +1,1 @@
+fn(WebSocketUpgrade, Arc<DashMap<std::string::String, ChatRoom>>) -> impl futures_util::Future<Output = Response<Body>> {handle_socket_upgrade}
